@@ -1,4 +1,4 @@
-import nellie, nikita 
+import nellie, nikita, shania
 
 nellie.hellonellie()
 print(nellie)
@@ -6,6 +6,6 @@ print(nellie)
 nikita.hejnikita()
 print(nikita)
 
-def helloshania():
-    meddelande = input("Ange ett meddelande som ska skrivas ut: ")
-    print(meddelande) 
+shania.helloshania()
+print(shania)
+
