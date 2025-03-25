@@ -4,3 +4,6 @@ def helloshania():
 
 def minfavoritmat():
     print("Min favoritmat är tacos!")
+
+def minfavoritdryck():
+    print("Min favoritdryck är islatte!")
