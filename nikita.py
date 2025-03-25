@@ -1,1 +1,2 @@
-print("Hej jag är Nikita")
+def hejnikita():
+    print("Hej jag är Nikita")
