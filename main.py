@@ -19,3 +19,5 @@ def favoritmat():
         shania.minfavoritmat()
     else:
         print("Felaktigt namn") 
+        
+favoritmat()
